@@ -1,4 +1,4 @@
-import type { Lead, LeadStatus, Opportunity } from "../types";
+import type { Lead, Opportunity } from "../types";
 
 const LATENCY_MS = 400;
 
